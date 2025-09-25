@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2.4",
+        "phpoffice/phpspreadsheet": "^2.2",
+        "google/apiclient": "2.12"
+    }
+}
